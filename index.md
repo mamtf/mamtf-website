@@ -5,7 +5,7 @@ title: Events
 # Next event: October 11th 2017
 
 The first Montréal Anti-Malware Task Force meeting will be at Google on
-Thursday October 11th. Montréal-based ESET researchers will present the results
+Wednesday October 11th. Montréal-based ESET researchers will present the results
 of their research on Stantinko, a 500 000 machine botnet used to distribute
 adware (and more as you will see).
 
